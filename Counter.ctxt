@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Counter
+comment1.params=
+comment1.target=Counter()
+comment2.params=prefix
+comment2.target=Counter(java.lang.String)
+comment2.text=Inisialisasi\ skor\ dari\ 0
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Perhitungan\ skor\r\n
+comment4.params=score
+comment4.target=void\ add(int)
+comment4.text=skor\ tambahan.
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=Return\ nilai\ skor
+comment6.params=newValue
+comment6.target=void\ setValue(int)
+comment6.text=Tampilan\ skor\ baru
+comment7.params=prefix
+comment7.target=void\ setPrefix(java.lang.String)
+comment7.text=set\ prefix\ skor
+comment8.params=
+comment8.target=void\ updateImage()
+comment8.text=Update\ image\ saat\ skor\ bertambah
+numComments=9
